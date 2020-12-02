@@ -1,14 +1,4 @@
 
-## Front-end Coding Challenge
-
-The task is to implement a small webapp that will list the most starred Github repos that were created in the last 30 days. You'll be fetching the sorted JSON data directly from the Github API
-
-## Usage
-
-`git clone https://github.com/mostafazouhair/Gemography_Challenge_React.git`
-`cd challenge-react`
-After clonning this repository to your local machine, run `npm install` to pull all app dependencies inside the root folder then run `npm start` to see the result.
-
 
 ## Libraries used
 
